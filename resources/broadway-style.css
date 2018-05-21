@@ -1,0 +1,103 @@
+html, body {
+  margin: auto;
+  height: 700px;
+  width: 700px;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: "Helvetica";
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.header {  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: cover;
+ }
+
+
+ul {
+  text-decoration: underline;
+  font-family: "Helvetica";
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+.content {
+  max-width: 1000px;
+  margin: auto;
+}
+
+div {
+  margin: auto;
+}
+
+body {
+
+  background: white;
+
+}
+
+p {
+  background: white;
+  font-size: 14px;
+  font-family: "Helvetica";
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: gray;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: "Helvetica";
+}
+
+
+.identify {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  src: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/identify.svg");
+}
+
+
+.execute {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  src: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/execute.svg");
+}
+
+.understand {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  src: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/understand.svg");
+}
+
+
+h3 {
+  font-size: 23px;
+  font-family: "Helvetica";
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+
+
+.newyork {
+  display: block;
+  height: 10px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: cover;
+ }
